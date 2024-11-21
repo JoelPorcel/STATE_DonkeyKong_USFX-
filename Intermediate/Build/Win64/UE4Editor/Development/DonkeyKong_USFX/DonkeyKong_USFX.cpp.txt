@@ -1,2 +1,0 @@
-C:\Users\joelp\OneDrive\Documentos\Unreal Projects\STATE\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\Definitions.DonkeyKong_USFX.h
-C:\Users\joelp\OneDrive\Documentos\Unreal Projects\STATE\Source\DonkeyKong_USFX\DonkeyKong_USFX.h

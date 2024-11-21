@@ -19,7 +19,7 @@ ADonkeyKong_USFXGameMode::ADonkeyKong_USFXGameMode()
 void ADonkeyKong_USFXGameMode::BeginPlay()
 {
 	//state
-	dragon = GetWorld()->SpawnActor<AEnemigoDragon>(AEnemigoDragon::StaticClass(), FVector(1208, -1210, 700), FRotator::ZeroRotator);
+	dragon = GetWorld()->SpawnActor<AEnemigoDragon>(AEnemigoDragon::StaticClass(), FVector(1208, 1610, 700), FRotator::ZeroRotator);
 	dragon->InicializarEnemigo(100);
 	dragon->Ataque();
 }
